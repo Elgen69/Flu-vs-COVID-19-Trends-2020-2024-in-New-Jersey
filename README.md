@@ -16,3 +16,9 @@ The goal of this project is to analyze and compare weekly flu cases and COVID-19
 This notebook is made available for educational and research purposes. You may view and use the contents of this repository, but any redistribution, modification, or use of this work must include proper attribution to the original author.  
 
 Unauthorized claiming of this work as your own is strictly prohibited.
+
+Requirements:
+pandas==2.0.3
+matplotlib==3.7.2
+numpy==1.25.2
+seaborn==0.12.2
